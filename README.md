@@ -36,18 +36,19 @@ Creating a polyglot study group -- one where different programming languages and
 - Intro to Clojure meetups and training
 
 ## Side projects shared with the group
-- https://jointprob.github.io/jointprob-shadow-cljs/ interactive Shadow CLJS elements for exploring 
+- https://jointprob.github.io/jointprob-shadow-cljs/ interactive Shadow CLJS elements for exploring Bayesian concepts
 - Bayesian Analysis of soccer matches
 - Bayesian Analysis of house prices
 
-## Polyglot Approach
+## Benefits, Challenges, and Opportunities for the group
 - Benefits:
+    - Learning together, collaboration, and community
     - Cross-pollination of ideas and approaches from different programming environments
     - Opportunities to introduce Clojure to with a broader audience of practitioners, building bridges
 - Challenges:
-    - Learning friction from reading an R textbook, getting started with Clojure, and learning Bayesian statistics
-    - 
+    - Some friction from reading an R textbook, starting to learn Clojure, while learning Bayesian statistics
 
-## Continuing Efforts and Next Steps
+## Opportunities and Next Steps
 - Additional side project show-and-tell and project collaboration
 - Possibly starting a new text soon (subject to group discussion)
+- Join the club!
